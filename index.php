@@ -7,7 +7,7 @@ ini_set('display_errors', 1);*/
 session_start();
 $_SESSION['username']=$username;
 
-$path = $_SERVER['DOCUMENT_ROOT']."/jobayer/admin/path.php";
+$path = $_SERVER['DOCUMENT_ROOT']."/admin_panel/Simple-Admin-Panel-using-PDO-AJAX/path.php";
 
 require_once($path);
 require_once($config);

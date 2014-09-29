@@ -8,17 +8,17 @@
  * 
  * */
  define("DB_HOST","localhost");
- define("DB_NAME","vpndb");
- define("DB_USER","jobayer");
- define("DB_PASSWORD","XTd98V7uwEZzLEhb");
+ define("DB_NAME","");
+ define("DB_USER","");
+ define("DB_PASSWORD","");
  
  class Database
  {
 		
 	private $db_host = "localhost";  // Change as required
-	private $db_user = "jobayer";  // Change as required
-	private $db_pass = "XTd98V7uwEZzLEhb";  // Change as required
-	private $db_name = "vpndb";	// Change as required
+	private $db_user = "";  // Change as required
+	private $db_pass = "";  // Change as required
+	private $db_name = "";	// Change as required
 	
 	/*
 	 * Extra variables that are required by other function such as boolean con variable

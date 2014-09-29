@@ -1,0 +1,109 @@
+@media (min-width:1170px) and (max-width:1365px){
+.container{width:90%; height:auto; display:inline-block; margin:0 auto; text-align:left;}
+.slider_bg{width:100%; height:auto; margin:auto;}
+.slider_bg img{width:100%; height:auto;}
+.support_section{padding:40px 0px 40px 0px;}
+.compatibility_section_right img, .support_right img{width:100%;}
+}
+
+@media(min-width:959px) and (max-width:1169px) {
+.container{width:90%; height:auto; display:inline-block; margin:0 auto; text-align:left;}
+.logo_bg h1 a{font:normal 30px semplicitamedium;}
+.secondary_nav{width:72%;}
+.secondary_nav ul li a{padding:20px 8px;}
+.slider_bg{width:100%; height:auto; margin:auto;}
+.slider_bg img{width:100%; height:auto;}
+.protect_section{padding:45px 0px 0px 0px;}
+.support_section{padding:65px 0px 0px 0px;}
+.support_section h2{padding:0px 0px 0px 0px;}
+.compatibility_section_right img, .support_right img{width:100%;}
+}
+
+@media (min-width:520px) and (max-width:958px){
+.container{width:90%; height:auto; display:inline-block; margin:0 auto; text-align:left;}
+.header_nav{padding:30px 0px;}
+.header_social_icon{width:100%; text-align:center; padding:0px 0px 15px 0px;}
+.primary_nav{width:100%; text-align:center; float:none;}
+.primary_nav ul{text-align:center;}
+.logo_bg{width:35%; float:left; text-align:center;}
+.logo_bg h1 a{font:normal 22px semplicitamedium;}
+.secondary_nav{width:65%; float:right;}
+.secondary_nav ul li{margin:0px 8px;}
+.secondary_nav ul li a{padding:20px 5px;}
+.slider_bg{width:100%; height:auto; margin:auto;}
+.slider_bg img{width:100%; height:auto;}
+.section_content{padding:40px 0px;}
+.section_content h2{font:normal 35px semplicitalight; text-align:center; padding:10px; line-height:50px;}
+.section_content ul{margin:0px; padding:0px;}
+.protect_section{padding:40px 0px;}
+.protect_section h2{text-align:center;}
+.protect_section p{text-align:center;}
+.protect_section_left{width:100%;}
+.protect_section_left img{width:100%;}
+.protect_section_right{width:100%;}
+.support_section{padding:40px 0px;}
+.support_section h2{text-align:center;}
+.support_section p{text-align:center;}
+.support_left{width:100%;}
+.support_right{width:100%; padding:20px 0px;}
+.support_right img{width:100%;}
+.compatibility_section{padding:40px 0px;}
+.compatibility_section h2{text-align:center;}
+.compatibility_section p{text-align:center;}
+.compatibility_section_left{width:100%;}
+.compatibility_section_right{width:100%; padding:20px 0px;}
+.compatibility_section_right img{width:100%;}
+.footer_span{width:100%; border-bottom:1px solid #ccc; margin:0px 0px 20px 0px;}
+.footer_social{width:100%; border-bottom:1px solid #ccc; margin:0px 0px 20px 0px;}
+.footer_tollfree{width:100%; border-bottom:none; margin:none;}
+.footer_paypal{width:100%; text-align:center;}
+.footer_paypal img{width:100%; height:auto;}
+}
+
+@media (min-width:240px) and (max-width:519px){
+.container{width:95%; height:auto; display:inline-block; margin:0 auto; text-align:left;}
+.header_social_icon{width:100%; text-align:center; padding:0px 0px 15px 0px;}
+.primary_nav{width:100%; text-align:center; float:none;}
+.primary_nav ul{text-align:center;}
+.primary_nav ul li{margin:0; padding:0 8px;}
+.header_nav{padding:30px 0px;}
+.logo_bg{width:100%; text-align:center;}
+.secondary_nav{width:100%; text-align:center; margin:10px 0px 0px 0px;}
+.slider_bg{width:100%; height:auto; margin:auto;}
+.slider_bg img{width:100%; height:auto;}
+.section_content{padding:40px 0px;}
+.section_content h2{font:normal 35px semplicitalight; text-align:center; padding:10px; line-height:50px;}
+.section_content ul{margin:0px; padding:0px;}
+.protect_section{padding:40px 0px;}
+.protect_section h2{text-align:center;}
+.protect_section p{text-align:center;}
+.protect_section_left{width:100%;}
+.protect_section_left img{width:100%;}
+.protect_section_right{width:100%;}
+.support_section{padding:40px 0px;}
+.support_section h2{text-align:center;}
+.support_section p{text-align:center;}
+.support_left{width:100%;}
+.support_right{width:100%; padding:20px 0px;}
+.support_right img{width:100%;}
+.compatibility_section{padding:40px 0px;}
+.compatibility_section h2{text-align:center;}
+.compatibility_section p{text-align:center;}
+.compatibility_section_left{width:100%;}
+.compatibility_section_right{width:100%; padding:20px 0px;}
+.compatibility_section_right img{width:100%;}
+.footer_span{width:100%; border-bottom:1px solid #ccc; margin:0px 0px 20px 0px;}
+.footer_social{width:100%; border-bottom:1px solid #ccc; margin:0px 0px 20px 0px;}
+.footer_tollfree{width:100%; border-bottom:none; margin:none;}
+.footer_paypal{width:100%; text-align:center;}
+.footer_paypal img{width:100%; height:auto;}
+}
+
+@media (max-width:840px){
+.secondary_nav ul{display:none;}
+.secondary_nav select{display:inline-block; background:#fff; color:#5A5A5A; width:100%; height:40px; padding:4px; outline:none; margin:0px 0px 0px 0px; text-align:center;}
+}
+
+@media (max-width:768px){
+.secondary_nav select{width:100%;}
+}
